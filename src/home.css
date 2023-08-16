@@ -1,0 +1,70 @@
+.job-position {
+  display: -webkit-box;
+  overflow: hidden;
+  white-space: initial;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.category {
+  color: #1fc76a;
+  width: max-content;
+  padding: 5px 8px;
+  font-weight: 600;
+  border-radius: 5px;
+  background-color: #DDF7E9;
+}
+
+.posted {
+  font-weight: bold;
+  color: #1fc76a;
+}
+
+.estimate {
+  padding: 0px 7px;
+  font-weight: normal;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+}
+
+.card {
+  font-size: 14px;
+  font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+}
+
+.card-actions {
+  position: relative;
+  white-space: nowrap;
+  overflow: hidden;
+  min-height: 40px;
+  padding: 0 15px;
+}
+
+.skill-container {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.skill-span {
+  vertical-align: top;
+  color: #838383;
+  display: inline-block;
+  padding: 5px 8px;
+  overflow: hidden;
+  max-width: 90%;
+  font-family: "Roboto Mono", "Consolas", monospace;
+  font-weight: bold;
+  border-radius: 5px;
+  text-overflow: ellipsis;
+  background-color: #f1f1f1;
+  margin-right: 5px;
+}
+
+.paper {
+  position: sticky;
+  top: 10px;
+  padding: 20px;
+}

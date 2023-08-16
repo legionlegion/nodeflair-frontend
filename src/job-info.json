@@ -1,0 +1,143 @@
+[
+  {
+    "company": "UBS",
+    "logo": "UBS logo",
+    "logo_url": "/images/illumina.png",
+    "category": "Fullstack",
+    "rating": "3.8 ★",
+    "position": "Software Engineer for Credit Risk Monitoring",
+    "posted": "27 minutes ago",
+    "location": "Singapore",
+    "salary": "S$8,329 - S$14,146 / mth",
+    "salary_currency": "EST",
+    "skills": ["Java", "SQL"]
+  },
+  {
+    "company": "DXC Technology",
+    "logo": "DXC Technology logo",
+    "logo_url": "/images/illumina.png",
+    "category": "Fullstack",
+    "rating": "3.2 ★",
+    "position": "Java Developer",
+    "posted": "about 1 hour ago",
+    "location": "Singapore",
+    "salary": "S$4,135 - S$6,300 / mth",
+    "salary_currency": "EST",
+    "skills": ["VB.Net", "C++", "Oracle", "Visual Studio", "Eclipse", "Java", "SQL", "C", "C#"]
+  },
+  {
+    "company": "NTT",
+    "logo": "NTT logo",
+    "logo_url": "/images/illumina.png",
+    "category": "Fullstack",
+    "rating": "3.4 ★",
+    "position": "Software Engineer",
+    "posted": "about 1 hour ago",
+    "location": "Singapore",
+    "skills": ["Microsoft SQL Server", "T SQL", "Microsoft HTML", "Asp.net", "JavaScript", "SQL", "C#", ".NET", "CSS"]
+  },
+  {
+    "company": "GovTech",
+    "logo": "GovTech logo",
+    "logo_url": "/images/illumina.png",
+    "category": "DevOps",
+    "rating": "4 ★",
+    "position": "DevOps Engineer (Artificial Intelligence Platforms)",
+    "posted": "about 2 hours ago",
+    "location": "Singapore",
+    "skills": ["AWS", "Terraform", "Docker", "Go", "Message Queue", "Nexus", "Apache", "Rust", "Databricks", "RabbitMQ", "Airflow", "Spark", "Kubernetes", "kafka", "Flink", "Ansible", "JavaScript", "Scala", "Hadoop", "Python"]
+  },
+  {
+    "company": "Illumina",
+    "logo": "Illumina logo",
+    "logo_url": "/images/illumina.png",
+    "category": "Frontend",
+    "rating": "3.8 ★",
+    "position": "Software Engineer (Instruments)",
+    "posted": "about 3 hours ago",
+    "location": "Singapore",
+    "skills": ["SVN", "CI", "OOP", "Sprint", "Git", "C#", ".NET"]
+  },
+  {
+    "company": "TikTok",
+    "logo": "TikTok logo",
+    "logo_url": "/images/illumina.png",
+    "category": "Data Analyst",
+    "rating": "3.6 ★",
+    "position": "Data Analyst, SMB",
+    "posted": "about 20 hours ago",
+    "location": "Singapore",
+    "salary": "S$7,742 - S$15,150 / mth",
+    "salary_currency": "EST",
+    "skills": ["SQL", "Python"]
+  },
+  {
+    "company": "DBS Bank",
+    "logo": "DBS Bank logo",
+    "logo_url": "/images/illumina.png",
+    "category": "Fullstack",
+    "rating": "3.9 ★",
+    "position": "Associate, Full Stack Developer, Middle Office Technology, Technology & Operations",
+    "posted": "about 20 hours ago",
+    "location": "Singapore",
+    "salary": "S$5,339 - S$9,665 / mth",
+    "salary_currency": "EST",
+    "skills": ["Jenkins", "Spring", "CI", "Fortify", "Sprint", "SonarQube", "Java", "Springboot", "Angular", "JavaScript", "Swift", "React"]
+  },
+  {
+    "company": "Crypto.com",
+    "logo": "Crypto.com logo",
+    "logo_url": "/images/illumina.png",
+    "category": "PM",
+    "rating": "4.4 ★",
+    "position": "Product Manager",
+    "posted": "3 days ago",
+    "location": "Singapore",
+    "salary": "S$5,000 - S$7,000 / mth",
+    "salary_currency": "EST"
+  },
+  {
+    "company": "Verily",
+    "logo": "Verily logo",
+    "logo_url": "/images/illumina.png",
+    "category": "Data Sci",
+    "rating": "3.2 ★",
+    "position": "Senior Data Scientist, EHR",
+    "posted": "3 days ago",
+    "location": "Singapore",
+    "skills": ["Python"]
+  },
+  {
+    "company": "GovTech",
+    "logo": "GovTech logo",
+    "logo_url": "/images/illumina.png",
+    "category": "Data Sci",
+    "rating": "4 ★",
+    "position": "Senior Data Scientist, Artificial Intelligence Platforms",
+    "posted": "3 days ago",
+    "location": "Singapore",
+    "skills": ["Analytics", "JavaScript", "Scala", "Python"]
+  },
+  {
+    "company": "Avanade",
+    "logo": "Avanade logo",
+    "logo_url": "/images/illumina.png",
+    "category": "Backend",
+    "rating": "4 ★",
+    "position": "Back-End Developer (.NET)",
+    "posted": "3 days ago",
+    "location": "Singapore",
+    "skills": ["Container", "MVC", "Swagger", "Rest API", "Docker", "Web Api", "API", "Entity", "Microsoft .Net Core", "Postman", "Azure", "MSSQL", "HTML", "Asp.net", "Kubernetes", "kafka", "JavaScript", "SQL", ".NET", "CSS"]
+  },
+  {
+    "company": "Standard Chartered",
+    "logo": "Standard Chartered logo",
+    "logo_url": "/images/illumina.png",
+    "category": "PM",
+    "rating": "3.9 ★",
+    "position": "Product Manager, Custody Svcs, FSS",
+    "posted": "3 days ago",
+    "location": "Singapore",
+    "salary": "S$11,000 - S$20,000 / mth"
+  }
+]
