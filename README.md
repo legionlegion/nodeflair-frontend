@@ -4,12 +4,15 @@ This project is a partial replica of the well-known tech job platform, NodeFlair
 
 ![Project Screenshot](public/images/screenshot.png)
 
+## Demo
+
+Visit the live version of the app: [NodeFlair Jobs Listings Clone Demo](https://nodeflair-frontend-vert.vercel.app/)
+
 ## Features
 
 - Display of tech job listings with relevant information such as company name, job position, location, posted date, salary, and skills required.
 - A visual indication of the currently selected job.
 - Responsive design that adjusts to different screen sizes.
-- An AppBar with integrated logo and sign-in button.
 
 ## Technologies Used
 
